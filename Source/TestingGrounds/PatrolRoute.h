@@ -2,7 +2,7 @@
 
 #pragma once
 
-#include "PatrollingGuard.h"
+//#include "PatrollingGuard.h"
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "PatrolRoute.generated.h"
